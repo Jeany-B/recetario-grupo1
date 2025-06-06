@@ -1,5 +1,5 @@
 # "Ingredientes"
-- ''6'' choclos chilenos
+- **6** choclos chilenos
 - "4" presas de pollo
 - "150" gramos de posta de vacuno molida o picada
 - "30" gramos de azúcar granulada
